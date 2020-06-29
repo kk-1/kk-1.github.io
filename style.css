@@ -1,0 +1,40 @@
+html, body { height: 100%; }
+img {border: 0;}
+body {
+        color: #000000;
+        text-align:left;
+        font-family: Helvetica, Arial, Nimbus Sans L, Sans Serif, sans-serif;
+        font-size: 11px;
+        padding:0px;
+        min-height: 100%;
+        height: 100%;
+}
+
+* {
+        padding:0;
+        margin:0;
+}
+
+/* Header */
+h1#header {
+        margin: 0;
+        height: 70px;
+        background: #6c0322 url(bant.jpg) no-repeat;
+        text-indent: -1234em;
+}
+
+#middie {
+                padding:20px 0 25px 30px;
+                font-size: 22px;
+                color: #314B66;
+                width: 420px;
+                text-align: left;
+                float: left;
+}
+
+.entry {
+        font-size: 15px;
+        padding-top: 20px;
+        text-align: justify;
+        color: #000000;
+}
