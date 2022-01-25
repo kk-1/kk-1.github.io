@@ -1,0 +1,36 @@
+
+You are given a mission by God to be a saint who will determine the true gates to the Heaven among "n" gates, numbered from 1 to "n".
+Some gates lead to the Heaven and some gates lead to the Hell.
+We do not know how many and which gate leads to where!
+People come to these gates with the "tickets" and give them to the "guardians" beside
+these gates. You do not and can not know what is written on the ticket!
+The guardian at the gate you choose checks the ticket and then tells you the destination of the gate.
+Of course you are free to take the gate or not. 
+You can try another gate with another guardian.
+Some guardians are liars and some are honest ones. We do not know which is an honest one or a liar.
+The honest one changes your destination on the ticket and tells you your new true destination. 
+Liars don't change anything yet tell you lies! That is you think your 
+destination is to the Heaven while you can go to the Hell! 
+
+
+Propose a way to determine liars and honest guys plus to have a ticket
+to the Heaven (the final true destination). You can also look at some kind of 
+complexity analysis stuff based on the "n". You can philosophize on the problem,
+about the number of gates, the existence of liars and honest ones... etc. 
+Any extension is welcome...
+
+
+ Hint:
+ 
+ When the angel of kindness saw that you are given this mission, she started to sing:
+
+
+    " One after another
+      I searched them
+      Answers came like waves
+      Bringing me
+      Persistence of lies
+      and the caprice of the truth."
+
+
+Good luck!
