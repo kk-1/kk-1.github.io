@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>My micro gallery</title>
+  </head>
+  <body>
+    <header></header>
+    <main></main>
+    <footer></footer>
+    <p><img src="wait2.png" alt="Waiting" title="Waiting" longdesc="Waiting"> <img
+        src="grunge_girl2.jpg" alt="Grunge-Girl" title="Grunge-Girl" longdesc="Grunge-Girl"></p>
+    <p><img src="potpourri.bmp" alt="Potpourri" title="Potpourri" longdesc="Potpourri"><img
+        src="mary4.png" alt="AveMaria" title="AveMaria" longdesc="AveMaria"></p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+  </body>
+</html>

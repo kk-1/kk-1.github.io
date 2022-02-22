@@ -18,7 +18,7 @@
       <li><b>More about me</b><br>
         <span style="color: #000001;"></span></li>
       <ul>
-        <li><span style="color: #000001;">My CV as of 2022 (<a href="doc/cv-jan-03-2022.pdf%0A"
+        <li><span style="color: #000001;">My CV as of 2022 (<a href="doc/cv-jan-03-2022.pdf"
               title="cv" target="_blank">PDF</a>)</span></li>
       </ul>
       <ul>
@@ -44,8 +44,16 @@
       </ul>
       <ul>
         <li><span style="  color: #000001;"><a href="doc/liar-honest-guardian-puzzle.txt"><span
-                style="color: #0000ee;">Honest-Liar guardians puzzle</span></a><br>
-          </span></li>
+                style="color: #0000ee;">Honest-Liar guardians puzzle</span></a></span></li>
+        <li><span style="   color: #000001;"><span style=" color: #0000ee;"><span
+                style="color: #000001;"><a href="prj/tsp/concaveTSP-d240.gif">Animated
+                  gif</a> of the <a href="https://github.com/kk-1/tsp">concave
+                  Hull based TSP heuristic</a></span></span></span></li>
+        <li><span style="    color: #000001;"><span style="  color: #0000ee;"><span
+                style=" color: #000001;"><a href="https://github.com/kk-1/boat-rescue"><span
+                    style="color: #0000ee;">Boat Rescue paper repo</span></a>
+                (concave Hull based TSP was utilized)<br>
+              </span></span></span></li>
       </ul>
     </ul>
     <p style="text-align: center;"><big style="color: rgb(0, 0, 1);"><span style="font-weight: bold;"></span></big><br>
