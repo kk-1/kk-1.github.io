@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Micro Disco</title>
+  </head>
+  <body>
+    <p>Micro Christmas Jingles:</p>
+    <ul>
+      <li><a href="xmas07.wav" title="Jingle 2007" target="_blank">For 2007</a></li>
+      <li>For 2008 (<a href="xmass2008-ohh-choir.wav" title="Jingle 2008 O choir"
+          target="_blank">Jingle with O choir</a>) (<a href="xmass2008-choir-pad-4.wav"
+          title="Jingle 2008 with pad4" target="_blank">Jingle with pad4</a>)</li>
+      <li>For 2009 (<a href="xmass-2009.wav" title="Jingle 2009 wave" target="_blank">Jingle
+          wave</a>) (<a href="xmass-2009-soft-pad.wav" title="Jingle 2009 soft pad"
+          target="_blank">Jingle soft pad</a>)</li>
+      <li><a href="xmass-2011.wav" title="Jingle 2011" target="_blank">For 2011</a></li>
+    </ul>
+  </body>
+</html>
