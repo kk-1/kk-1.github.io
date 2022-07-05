@@ -68,12 +68,32 @@
                   Gallery</a>: A bit of painting art of my own</span></span></span></li>
         <li><span style="      color: #000001;"><span style="    color: #0000ee;"><span
                 style="   color: #000001;"><a href="music/micro-disco.html" title="Micro Disco"
-                  target="_blank">Micro Disco</a>: A bit of music<br>
+                  target="_blank">Micro Disco</a>: A bit of music I created<br>
               </span></span></span></li>
         <li><a href="https://github.com/kk-1/unicam-phd-latex-style" title="unicam-phd-latex-style"
             target="_blank"><span style="      color: #000001;"><span style="    color: #0000ee;"><span
-                  style="   color: #000001;">LaTeX style for UNICAM PhD Thesis<br>
-                </span></span></span></a></li>
+                  style="   color: #000001;">LaTeX style for UNICAM PhD Thesis</span></span></span></a></li>
+        <li><span style="       color: #000001;"><span style="     color: #0000ee;"><span
+                style="    color: #000001;">My PhD Thesis (2022 - University of
+                Camerino - Computer Science):</span></span></span></li>
+        <ul>
+          <li><span style="        color: #000001;"><span style="      color: #0000ee;"><span
+                  style="     color: #000001;"><a href="%20http://dx.doi.org/10.13140/RG.2.2.11162.11201"
+                    title="PhD Thesis" target="_blank">Geometry-Based
+                    Optimization Heuristics for Region Coverage and Pathfinding
+                    in Drone-Based Operations</a><br>
+                </span></span></span></li>
+        </ul>
+        <li><span style="       color: #000001;"><span style="     color: #0000ee;"><span
+                style="    color: #000001;">My MSc Thesis (2018 - METU NCC
+                -&nbsp; Sustainable Environment and Energy Systems):</span></span></span></li>
+        <ul>
+          <li><span style="        color: #000001;"><span style="      color: #0000ee;"><span
+                  style="     color: #000001;"><a href="http://dx.doi.org/10.13140/RG.2.2.13832.16642"
+                    title="MSc Thesis" target="_blank">Energy Efficient Routing
+                    With Directional Antennas In Wireless Sensor Networks</a><br>
+                </span></span></span></li>
+        </ul>
         <a href="https://github.com/kk-1/unicam-phd-latex-style" title="unicam-phd-latex-style"
           target="_blank"> </a>
       </ul>
