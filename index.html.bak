@@ -12,6 +12,12 @@
         title="My photo" style="width: 167px; height: 210px;"></div>
     <p style="text-align: center;"><big style="color: rgb(0, 0, 1);"><span style="font-weight: bold;">Kemal
           Ihsan Kilic</span></big></p>
+    <p style="text-align: center;"><big style="color: rgb(0, 0, 1);"><span style="font-weight: bold;"><a
+            href="https://ncc.metu.edu.tr/cng/home" title="METU NCC Computer Engineering Home"
+            target="_blank">Department of Computer Engineering </a><br>
+        </span></big></p>
+    <div style="text-align: center;"><img src="metu-cropped.png" alt="metu logo"
+        title="metu logo"></div>
     <p style="text-align: center;"><big style="color: rgb(0, 0, 1);"><span style="font-weight: bold;"></span></big></p>
     <hr style="color: #75ef20; margin-left: auto; margin-right: auto;">
     <ul>
@@ -79,7 +85,7 @@
                 Computer Science):</span></span></span></li>
         <ul>
           <li><span style="        color: #000001;"><span style="      color: #0000ee;"><span
-                  style="     color: #000001;"><a href="http://dx.doi.org/10.13140/RG.2.2.11162.11201"
+                  style="     color: #000001;"><a href="doc/kemal-phd-cycle-XXXIV-thesis.pdf"
                     title="PhD Thesis" target="_blank">Geometry-Based
                     Optimization Heuristics for Region Coverage and Pathfinding
                     in Drone-Based Operations</a><br>
