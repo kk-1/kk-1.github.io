@@ -16,8 +16,8 @@
             href="https://ncc.metu.edu.tr/cng/home" title="METU NCC Computer Engineering Home"
             target="_blank">Department of Computer Engineering </a><br>
         </span></big></p>
-    <div style="text-align: center;"><img src="metu-cropped.png" alt="metu logo"
-        title="metu logo"></div>
+    <div style="text-align: center;"><a href="https://ncc.metu.edu.tr/" target="_blank"><img
+          src="metu-cropped.png" alt="metu logo" title="metu logo"></a></div>
     <p style="text-align: center;"><big style="color: rgb(0, 0, 1);"><span style="font-weight: bold;"></span></big></p>
     <hr style="color: #75ef20; margin-left: auto; margin-right: auto;">
     <ul>
