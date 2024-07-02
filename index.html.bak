@@ -6,9 +6,15 @@
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
     <link rel="icon" href="animated_favicon.gif" type="image/gif">
     <meta name="description" content=" Kemal Ihsan Kilic personal web site">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+img {
+  border-radius: 50%;
+}
+</style>
   </head>
   <body>
-    <div style="text-align: center;"><img class="circular_image" src="kemal-2023-close-up.jpg"
+    <div style="text-align: center;"><img src="kemal-2023-close-up.jpg"
         alt="my photo 2023" title="my photo 2023" style="width: 232px; height: 196px;"></div>
     <p style="text-align: center;"><big style="color: rgb(0, 0, 1);"><span style="font-weight: bold;">Kemal
           Ihsan Kilic</span></big></p>
@@ -119,5 +125,6 @@
         title="unicam-phd-latex-style" target="_blank"><big style="color: rgb(0, 0, 1);"><span
             style="font-weight: bold;"></span></big></a><br>
       <big style="color: rgb(0, 0, 1);"><span style="font-weight: bold;"></span></big></p>
+    
   </body>
 </html>
